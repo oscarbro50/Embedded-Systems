@@ -1,0 +1,94 @@
+0
+1
+00:00:00,090 --> 00:00:05,930
+So, in this lecture let's understand about Installing an Integrated Development Environment.
+1
+
+2
+00:00:05,970 --> 00:00:14,130
+So, in short we call it as IDE. IDE is a software that contains all the essential tools to develop,
+2
+
+3
+00:00:14,340 --> 00:00:18,230
+compile, link, and debug your code.
+3
+
+4
+00:00:18,300 --> 00:00:24,900
+In some cases, you may have to integrate compiler and debugger tools to the IDE manually.
+4
+
+5
+00:00:24,900 --> 00:00:33,000
+So, throughout this course we will be using Eclipse-based STM32CubeIDE which is developed by ST Microelectronics
+5
+
+6
+00:00:33,000 --> 00:00:35,400
+to write, compile, debug
+6
+
+7
+00:00:35,400 --> 00:00:42,180
+your embedded system applications on STM32 ARM-based microcontrollers. STM32Cube
+7
+
+8
+00:00:42,180 --> 00:00:48,060
+IDE is an Eclipse-based IDE with STM32 related customization.
+8
+
+9
+00:00:48,300 --> 00:00:51,700
+Let's see how to download STM32CubeIDE.
+9
+
+10
+00:00:51,870 --> 00:00:57,600
+So, first of all you have to visit this link. So, this link is given in the resource section of this lecture.
+10
+
+11
+00:00:58,080 --> 00:01:04,740
+So, once you go to this link so you will find Get Software section. There you can download the software
+11
+
+12
+00:01:04,770 --> 00:01:06,540
+according to your machine.
+12
+
+13
+00:01:06,540 --> 00:01:14,040
+So in my case, I'm using Windows based machine, so I'll be downloading Windows software. And select the
+13
+
+14
+00:01:14,170 --> 00:01:15,720
+version here.
+14
+
+15
+00:01:15,720 --> 00:01:22,400
+You can select the newer version which is available and then click on Get Software. Once you click on
+15
+
+16
+00:01:22,400 --> 00:01:23,470
+Get Software
+16
+
+17
+00:01:23,540 --> 00:01:30,920
+it will take you to the download page. And here you either have to register or if you don't want to register,
+17
+
+18
+00:01:30,920 --> 00:01:35,840
+then you can download the software by simply providing your name and email address in this form.
+18
+
+19
+00:01:35,900 --> 00:01:39,230
+So, go ahead and download this software and I'll see you in the next lecture.

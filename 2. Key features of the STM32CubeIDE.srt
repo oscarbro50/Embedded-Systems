@@ -1,0 +1,134 @@
+0
+1
+00:00:00,060 --> 00:00:06,360
+Let's see some of the features of this STM32CubeIDE. In this web page they have listed
+1
+
+2
+00:00:06,420 --> 00:00:08,860
+some of the key features of this IDE.
+2
+
+3
+00:00:09,090 --> 00:00:12,890
+Let's understand what are the features which are important to us.
+3
+
+4
+00:00:13,020 --> 00:00:17,490
+The very important thing is, it supports all the OS platforms.
+4
+
+5
+00:00:17,490 --> 00:00:17,880
+Why?
+5
+
+6
+00:00:17,880 --> 00:00:20,040
+Because, it is based on Eclipse.
+6
+
+7
+00:00:20,040 --> 00:00:21,820
+That's why, Multi-OS support.
+7
+
+8
+00:00:21,840 --> 00:00:23,790
+So that's the good news.
+8
+
+9
+00:00:23,790 --> 00:00:30,600
+And the next important thing is, it comes with inbuilt cross compilers and debuggers.
+9
+
+10
+00:00:30,600 --> 00:00:37,300
+You need not to download any external compilers or debuggers to integrate that with this IDE. So,
+10
+
+11
+00:00:37,470 --> 00:00:40,020
+everything comes in one single bundle.
+11
+
+12
+00:00:40,110 --> 00:00:49,110
+So, this IDE actually uses a GNU based C C++ compiler for ARM embedded processors.It has a several other
+12
+
+13
+00:00:49,110 --> 00:00:55,830
+features like importing projects from Atollic, TrueSTUDIO, and System Workbench. And also in this IDE
+13
+
+14
+00:00:55,970 --> 00:01:03,260
+you find some of the advanced debug features including SWV, which stands for a System analysis and real
+14
+
+15
+00:01:03,260 --> 00:01:09,780
+time tracing which we will be using in this course. And I'll be explaining how to use SWV in the later part
+15
+
+16
+00:01:09,780 --> 00:01:12,250
+of the course, and also of course you can
+16
+
+17
+00:01:12,240 --> 00:01:20,160
+observe all the CPU core registers, IP registers, and also you can browse various memory locations of the
+17
+
+18
+00:01:20,160 --> 00:01:25,000
+microcontroller a while you debug the code. So, everything will be covered in this course.
+18
+
+19
+00:01:25,740 --> 00:01:34,040
+And another important feature of this IDE is it has inbuilt support for STM32CubeMX.
+19
+
+20
+00:01:34,050 --> 00:01:39,870
+Now earlier we used to install a separate STM32CubeMX software and then we used to generate
+20
+
+21
+00:01:39,900 --> 00:01:40,440
+the code
+21
+
+22
+00:01:40,440 --> 00:01:44,640
+and after that we used to import that project into the eclipse software.
+22
+
+23
+00:01:45,060 --> 00:01:48,630
+But with the release of this IDE that is not required.
+23
+
+24
+00:01:49,080 --> 00:01:52,020
+So, it gives inbuilt support for 
+24
+
+25
+00:01:52,050 --> 00:01:59,810
+STM32CubeMX a for peripheral configuration and code generation, but this feature that is integrated  
+25
+
+26
+00:01:59,830 --> 00:02:03,590
+STM32CubeMX feature will not be used in this course.
+26
+
+27
+00:02:03,730 --> 00:02:06,630
+So, you should remember that will not be using STM32CubeMX.

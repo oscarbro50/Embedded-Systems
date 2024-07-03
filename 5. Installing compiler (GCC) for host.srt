@@ -1,0 +1,99 @@
+0
+1
+00:00:00,090 --> 00:00:06,300
+So, in this lecture let's understand installation of GNU Compiler Collections for host.
+1
+
+2
+00:00:06,300 --> 00:00:10,210
+That means, we are going to install the GCC compiler for host.
+2
+
+3
+00:00:10,590 --> 00:00:17,730
+So, note that the STM32CubeIDE which we installed in the previous video is an integrated development
+3
+
+4
+00:00:17,760 --> 00:00:25,420
+environment software to develop, compile, and debug embedded applications for STM32 microcontrollers.
+4
+
+5
+00:00:25,680 --> 00:00:31,860
+So, the STM32CubeIDE installation procedure which we carried out in the previous video, also
+5
+
+6
+00:00:31,860 --> 00:00:36,790
+installed the GCC cross compiler for ARM Cortex Mx processors.
+6
+
+7
+00:00:36,870 --> 00:00:42,510
+So, you need not to download any external cross compilers. It is already done. In this course,
+7
+
+8
+00:00:42,540 --> 00:00:48,120
+we are using a same IDE, to write and compile 'C' programs for our host machine. 
+8
+
+9
+00:00:48,150 --> 00:00:50,890
+That is Windows, Linux, and Mac machines.
+9
+
+10
+00:00:50,970 --> 00:00:57,190
+So now we need to install the compiler for our host machine, which doesn't come with the  
+10
+
+11
+00:00:57,200 --> 00:01:00,150
+STM32CubeIDE installation. So, that we are going to do now.
+11
+
+12
+00:01:01,220 --> 00:01:07,370
+If you are using Linux or Mac, then it is very simple you just have to run few commands in order to install
+12
+
+13
+00:01:07,370 --> 00:01:09,700
+the GCC compiler for your host.
+13
+
+14
+00:01:09,860 --> 00:01:17,510
+So that I am going to cover later, but in the next lecture I'm going to cover how to install GCC for your
+14
+
+15
+00:01:17,510 --> 00:01:18,530
+Windows machine.
+15
+
+16
+00:01:18,560 --> 00:01:26,750
+It is not that straightforward because, we use GCC in windows through a tool called MinGW. MinGW stands
+16
+
+17
+00:01:26,750 --> 00:01:30,280
+for Minimalist GNU tools for Windows.
+17
+
+18
+00:01:30,470 --> 00:01:34,190
+So, it is actually the windows flavor of GNU tools.
+18
+
+19
+00:01:34,700 --> 00:01:39,530
+So, in the next lecture I'll be covering how to install MinGW on your Windows machine,
+19
+
+20
+00:01:39,530 --> 00:01:43,810
+so if you are reusing Linux or Mac machines, please skip the next video.

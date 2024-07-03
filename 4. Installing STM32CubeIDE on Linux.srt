@@ -1,0 +1,209 @@
+0
+1
+00:00:00,390 --> 00:00:00,650
+All right. 
+1
+
+2
+00:00:00,660 --> 00:00:05,380
+So now let's extract this. OK.
+2
+
+3
+00:00:05,390 --> 00:00:11,540
+So, now you have to go under this folder and this is the installation script which we have to run now.
+3
+
+4
+00:00:11,540 --> 00:00:11,800
+OK.
+4
+
+5
+00:00:11,810 --> 00:00:14,060
+So, for that let's go to the command prompt.
+5
+
+6
+00:00:14,110 --> 00:00:16,580
+I'm in that directory, and just do ls.
+6
+
+7
+00:00:16,640 --> 00:00:16,930
+OK.
+7
+
+8
+00:00:16,940 --> 00:00:22,420
+And let's go under this directory.
+8
+
+9
+00:00:22,430 --> 00:00:22,820
+All right.
+9
+
+10
+00:00:23,510 --> 00:00:23,710
+All right.
+10
+
+11
+00:00:23,720 --> 00:00:29,200
+Now let's do ls. And we have to now give executable permission to this script. 
+11
+
+12
+00:00:29,240 --> 00:00:29,480
+OK.
+12
+
+13
+00:00:29,480 --> 00:00:35,020
+For that, we have to run sudo chmod +x. OK.
+13
+
+14
+00:00:35,090 --> 00:00:37,480
+and the file name.
+14
+
+15
+00:00:37,490 --> 00:00:38,000
+All right.
+15
+
+16
+00:00:38,000 --> 00:00:39,120
+Press Enter.
+16
+
+17
+00:00:39,200 --> 00:00:39,940
+Great.
+17
+
+18
+00:00:39,950 --> 00:00:48,500
+So, now let's run by using sudo ./ and the file name.
+18
+
+19
+00:00:49,130 --> 00:00:49,610
+Right?
+19
+
+20
+00:00:50,570 --> 00:00:53,060
+So, now it is getting installed.
+20
+
+21
+00:00:53,060 --> 00:01:00,370
+So, please be patient.
+21
+
+22
+00:01:00,670 --> 00:01:00,960
+All right.
+22
+
+23
+00:01:00,960 --> 00:01:03,300
+So now you have to accept the license agreement,
+23
+
+24
+00:01:03,330 --> 00:01:08,250
+just press space key and type
+24
+
+25
+00:01:08,260 --> 00:01:10,800
+y. Right?
+25
+
+26
+00:01:10,800 --> 00:01:17,560
+So and then press enter and the license will be accepted.
+26
+
+27
+00:01:17,580 --> 00:01:17,880
+All right.
+27
+
+28
+00:01:17,880 --> 00:01:19,890
+So now just be patient,
+28
+
+29
+00:01:22,990 --> 00:01:24,340
+there you go.
+29
+
+30
+00:01:24,550 --> 00:01:29,550
+The installation was successful.
+30
+
+31
+00:01:29,590 --> 00:01:32,850
+Now let's go to the search box and let's search for ST
+31
+
+32
+00:01:32,940 --> 00:01:34,430
+and here it is.
+32
+
+33
+00:01:34,460 --> 00:01:34,820
+OK.
+33
+
+34
+00:01:34,830 --> 00:01:42,810
+You can launch this application now. All right. And here it is.
+34
+
+35
+00:01:42,810 --> 00:01:48,260
+So, it is asking for you to open the workspace and we are not going to open any workspace
+35
+
+36
+00:01:48,420 --> 00:01:49,060
+as of now.
+36
+
+37
+00:01:49,200 --> 00:01:49,980
+OK.
+37
+
+38
+00:01:50,010 --> 00:01:52,470
+And we can just press Cancel here.
+38
+
+39
+00:01:52,470 --> 00:01:52,830
+Great.
+39
+
+40
+00:01:52,830 --> 00:01:59,010
+So, now you just installed the STM32CubeIDE on your Ubuntu machine.
+40
+
+41
+00:01:59,160 --> 00:01:59,680
+Okay.
+41
+
+42
+00:01:59,700 --> 00:02:01,380
+And I'll see you in the next lecture.

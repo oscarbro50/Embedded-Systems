@@ -1,0 +1,64 @@
+0
+1
+00:00:01,050 --> 00:00:03,210
+So, now let's install this software,
+1
+
+2
+00:00:03,210 --> 00:00:09,280
+so once you download the archive, so just extract it and here you get the software.
+2
+
+3
+00:00:09,510 --> 00:00:14,970
+So now let's install this. Click on Next,
+3
+
+4
+00:00:15,110 --> 00:00:19,060
+I agree and it will be installing this software into C drive.
+4
+
+5
+00:00:19,400 --> 00:00:20,550
+So, that's OK.
+5
+
+6
+00:00:20,670 --> 00:00:21,340
+Let's click
+6
+
+7
+00:00:21,350 --> 00:00:24,650
+Next. It installs all these drivers,
+7
+
+8
+00:00:24,650 --> 00:00:27,580
+that's why, do not uncheck these things.
+8
+
+9
+00:00:27,590 --> 00:00:29,020
+So, these are needed.
+9
+
+10
+00:00:29,090 --> 00:00:32,030
+Let's hit install.
+10
+
+11
+00:00:32,110 --> 00:00:37,860
+It's very simple.
+11
+
+12
+00:00:37,890 --> 00:00:39,930
+So now the installation is complete,
+12
+
+13
+00:00:39,930 --> 00:00:43,470
+let's click Next, and after that click on Finish.
