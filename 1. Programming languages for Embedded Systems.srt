@@ -1,0 +1,154 @@
+0
+1
+00:00:00,190 --> 00:00:04,180
+Alright. Now let's understand what exactly is a computer program.
+1
+
+2
+00:00:04,290 --> 00:00:12,390
+A program is a series of instructions that cause a computer or a microcontroller to perform a particular
+2
+
+3
+00:00:12,390 --> 00:00:17,540
+task. A computer program includes more than just instructions.
+3
+
+4
+00:00:17,550 --> 00:00:25,830
+It also contains data and various memory addresses on which the instructions work to perform a specific
+4
+
+5
+00:00:25,830 --> 00:00:26,670
+task.
+5
+
+6
+00:00:26,670 --> 00:00:32,480
+Now, let's look at different programming languages which we use in embedded systems design.
+6
+
+7
+00:00:33,090 --> 00:00:37,790
+So, to write a program we have to use programming language, isn't it?
+7
+
+8
+00:00:37,860 --> 00:00:45,300
+Note that, if your goal is to become an embedded system programmer, then you must be good at C or C++
+8
+
+9
+00:00:45,300 --> 00:00:47,600
+programming languages or both.
+9
+
+10
+00:00:47,870 --> 00:00:54,510
+Nowadays, a rust programming language also has quickly gained popularity and also becoming very much
+10
+
+11
+00:00:54,510 --> 00:00:56,890
+famous in embedded programming.
+11
+
+12
+00:00:56,970 --> 00:01:00,120
+C, C++, Rust, Assembly,
+12
+
+13
+00:01:00,150 --> 00:01:05,310
+so these are the main programming languages which are being used in embedded systems.
+13
+
+14
+00:01:05,370 --> 00:01:12,660
+The usage of Python, Micro Python, and Java are also rarely used in embedded systems code development.
+14
+
+15
+00:01:12,980 --> 00:01:17,790
+Assembly level programming is very much powerful and it is still being used in various parts of the
+15
+
+16
+00:01:17,810 --> 00:01:18,960
+embedded project.
+16
+
+17
+00:01:19,170 --> 00:01:26,030
+So, it's not like you know a C and C++ have completely taken over the assembly level programming. A still
+17
+
+18
+00:01:26,060 --> 00:01:30,370
+some part of the project is coded in assembly level programming.
+18
+
+19
+00:01:30,380 --> 00:01:35,450
+Now, if you look at the survey of 2017 made by Embedded.com,
+19
+
+20
+00:01:35,480 --> 00:01:40,680
+so here is a screenshot of Dan Saks presentation during the keynotes speech.
+20
+
+21
+00:01:40,700 --> 00:01:46,120
+So, this video you can find on you tube. So, very much informative video you should watch it on YouTube.
+21
+
+22
+00:01:46,250 --> 00:01:52,280
+If you look at this slide, you can see that 'C' is still the number 1 and highly favored programming
+22
+
+23
+00:01:52,280 --> 00:01:59,630
+language for embedded systems followed by C++ and assembly. But you can also notice that usage of 'C'
+23
+
+24
+00:01:59,750 --> 00:02:06,800
+may be declining. So, in future C++ and Rust programming languages also have the potential to gain
+24
+
+25
+00:02:06,800 --> 00:02:13,800
+significant popularity in embedded systems programming. But still 'C' leads in embedded domain.
+25
+
+26
+00:02:13,800 --> 00:02:19,980
+It is one of the most powerful high level programming languages to write programs for embedded systems.
+26
+
+27
+00:02:20,340 --> 00:02:22,740
+So, you can download this survey as a PDF
+27
+
+28
+00:02:22,860 --> 00:02:25,990
+if you want from Embedded.com website.
+28
+
+29
+00:02:26,120 --> 00:02:31,540
+Alright. So, that gives us a motivation why we should learn 'C' programming language, because it is still
+29
+
+30
+00:02:31,540 --> 00:02:35,800
+one of the leading programming languages for embedded systems.
+30
+
+31
+00:02:35,850 --> 00:02:40,200
+Now let's get started with exploring the 'C' programming language.

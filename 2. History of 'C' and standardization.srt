@@ -1,0 +1,155 @@
+0
+1
+00:00:00,120 --> 00:00:07,530
+Let's look at 'C' programming standardization and will also look at some history of 'C' programming language.
+1
+
+2
+00:00:07,530 --> 00:00:13,700
+The 'C' Programming language was initially developed in AT&T labs by Professor Brian Kernighan and Dennis
+2
+
+3
+00:00:13,710 --> 00:00:16,210
+Ritchie, known as K&R C.
+3
+
+4
+00:00:16,230 --> 00:00:21,400
+So, during the year 1970, 'C' programming became very much popular
+4
+
+5
+00:00:21,450 --> 00:00:27,780
+but without any serious standardization to the language. The non-official standard was called K&R
+5
+
+6
+00:00:27,780 --> 00:00:32,520
+C, which led to many ambiguities among different compiler programmers,
+6
+
+7
+00:00:32,520 --> 00:00:35,580
+and that actually led to non-portable codes.
+7
+
+8
+00:00:35,810 --> 00:00:43,950
+K&R C was a first non-official 'C' standard. So, in 1989 American National Standards Institute(ANSI)  
+8
+
+9
+00:00:43,950 --> 00:00:49,750
+designed and approved first official 'C' standard, which is also denoted by this tag name.
+9
+
+10
+00:00:50,270 --> 00:00:56,410
+And in 1990 it was approved by ISO as international standard for 'C' programming language.
+10
+
+11
+00:00:56,420 --> 00:01:03,310
+So the ISO tag name is this one. So, that means the first official international standard was released
+11
+
+12
+00:01:03,340 --> 00:01:05,520
+by ISO in 1990.
+12
+
+13
+00:01:05,530 --> 00:01:15,830
+So that's why, it is also called as ANSI C or C89 or C90 standard.So, the language underwent few more
+13
+
+14
+00:01:15,830 --> 00:01:24,020
+changes (like addition of new features, addition of new syntaxes, data types etc.) and newly updated
+14
+
+15
+00:01:24,020 --> 00:01:28,480
+standard was released in 1999 under the ISO tag
+15
+
+16
+00:01:28,520 --> 00:01:39,010
+this one, which is also called C99 standard in short. So, in December 2011 ISO released new
+16
+
+17
+00:01:39,010 --> 00:01:46,430
+standard under this tag name, which is also called as 
+C11 standard. C11 supersedes the C99
+17
+
+18
+00:01:46,430 --> 00:01:47,610
+standard.
+18
+
+19
+00:01:47,620 --> 00:01:53,350
+So now in this course, we will be using the C11 standard which is actually compiler default with
+19
+
+20
+00:01:53,350 --> 00:01:55,600
+some compiler extensions.
+20
+
+21
+00:01:55,600 --> 00:02:01,210
+So, collectively we call it as a gnu11. So more on this, we'll see later. How to change the compiler
+21
+
+22
+00:02:01,210 --> 00:02:04,270
+settings to mention the 'C' standard?
+22
+
+23
+00:02:04,480 --> 00:02:06,430
+So, we'll cover this later.
+23
+
+24
+00:02:06,430 --> 00:02:13,450
+So, note that if you have written a code using C90 standard, then it will compile without any issues
+24
+
+25
+00:02:13,540 --> 00:02:19,480
+in C99 standard compilation, so that what we call is backward compatibility.
+25
+
+26
+00:02:19,480 --> 00:02:26,050
+So but if you have written code using C99 standard specific features, then it may not compile
+26
+
+27
+00:02:26,050 --> 00:02:30,090
+successfully in C90 compilation. So, you should keep this in mind. 
+27
+
+28
+00:02:30,190 --> 00:02:35,410
+But don't worry about this, so we'll see how to set the standard in the compiler later. From the next
+28
+
+29
+00:02:35,410 --> 00:02:36,190
+lecture onwards
+29
+
+30
+00:02:36,190 --> 00:02:38,130
+let's get started with programming.
+30
+
+31
+00:02:38,260 --> 00:02:41,830
+So, let's start with the Hello world program and I'll see you in the next lecture.
